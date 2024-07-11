@@ -24,4 +24,4 @@ python3 -m pip install requests bs4
 python3 -m pip install mechanize
 
 # Inicia el programa
-python3 FcBookCracker
+python3 FcBookCracker.py
