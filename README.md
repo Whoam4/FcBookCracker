@@ -14,11 +14,13 @@ Sigue estos pasos para clonar y configurar la herramienta en tu máquina local.
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/IAmBlackHacker/Facebook-BruteForce
+git clone https://github.com/Whoam4/FcBookCracker.git
 
 # Entra en el directorio del proyecto
-cd Facebook-BruteForce
+cd FcBookCracker
 
 # Instala las dependencias necesarias
 python3 -m pip install requests bs4
 python3 -m pip install mechanize
+
+#python3 FcBookCracker.git 
