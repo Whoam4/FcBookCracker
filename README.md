@@ -23,4 +23,5 @@ cd FcBookCracker
 python3 -m pip install requests bs4
 python3 -m pip install mechanize
 
-#python3 FcBookCracker.git 
+# Inicia el programa
+python3 FcBookCracker.git 
