@@ -8,6 +8,12 @@
 
 ---
 
+## 🔒 Licencia de Responsabilidad
+
+Esta herramienta es para un uso ético y la prevención de estos ataques. Cualquier acto ilícito de esta, no se hace responsable el autor 
+
+---
+
 ## 📥 Descarga e Instalación
 
 Sigue estos pasos para clonar y configurar la herramienta en tu máquina local.
@@ -25,3 +31,4 @@ python3 -m pip install mechanize
 
 # Inicia el programa
 python3 FcBookCracker.py
+
